@@ -1,0 +1,42 @@
+body {
+background-color: lightgray;;
+}
+
+header {
+background-color: teal;
+}
+
+nav {
+background-color: lightblue;
+color: teal;
+}
+
+nav a {
+color: royalblue;
+font-weight: bold;
+}
+
+h2 {
+color: royalblue;
+font-size: 30px;
+background-color: lightblue;
+}
+
+p {
+color: teal;
+font-size: 20px
+}
+
+.image-class {
+border: 5px solid teal;
+}
+
+input {
+background-color: lightblue;
+color: teal;
+}
+
+footer p {
+background-color: black;
+color: white;
+}
